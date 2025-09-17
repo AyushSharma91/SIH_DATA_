@@ -1,0 +1,2227 @@
+{
+  "stations": [
+    {
+      "id": "SWV",
+      "name": "SAWANTWADI R",
+      "platforms": 2
+    },
+    {
+      "id": "THVM",
+      "name": "THIVIM",
+      "platforms": 2
+    },
+    {
+      "id": "KRMI",
+      "name": "KARMALI",
+      "platforms": 2
+    },
+    {
+      "id": "MAO",
+      "name": "MADGOAN JN.",
+      "platforms": 2
+    },
+    {
+      "id": "KUDL",
+      "name": "KUDAL",
+      "platforms": 2
+    },
+    {
+      "id": "SNDD",
+      "name": "SINDHU DURG",
+      "platforms": 2
+    },
+    {
+      "id": "KKW",
+      "name": "KANKAVALI",
+      "platforms": 2
+    },
+    {
+      "id": "VBW",
+      "name": "VAIBHAVWADI",
+      "platforms": 2
+    },
+    {
+      "id": "RAJP",
+      "name": "RAJAPUR ROAD",
+      "platforms": 2
+    },
+    {
+      "id": "RN",
+      "name": "RATNAGIRI",
+      "platforms": 2
+    },
+    {
+      "id": "SGR",
+      "name": "SANGMESHWAR",
+      "platforms": 2
+    },
+    {
+      "id": "CHI",
+      "name": "CHIPLUN",
+      "platforms": 2
+    },
+    {
+      "id": "KHED",
+      "name": "KHED",
+      "platforms": 2
+    },
+    {
+      "id": "MNI",
+      "name": "MANGAON",
+      "platforms": 2
+    },
+    {
+      "id": "ROHA",
+      "name": "ROHA",
+      "platforms": 2
+    },
+    {
+      "id": "PNVL",
+      "name": "PANVEL",
+      "platforms": 2
+    },
+    {
+      "id": "KJT",
+      "name": "KARJAT",
+      "platforms": 2
+    },
+    {
+      "id": "LNL",
+      "name": "LONAVLA",
+      "platforms": 2
+    },
+    {
+      "id": "PUNE",
+      "name": "PUNE JN.",
+      "platforms": 2
+    },
+    {
+      "id": "STR",
+      "name": "SATARA",
+      "platforms": 2
+    },
+    {
+      "id": "MRJ",
+      "name": "MIRAJ JN.",
+      "platforms": 2
+    },
+    {
+      "id": "KOP",
+      "name": "CHHATRAPATI",
+      "platforms": 2
+    },
+    {
+      "id": "DSJ",
+      "name": "DELHI-SAFDAR",
+      "platforms": 2
+    },
+    {
+      "id": "GADJ",
+      "name": "GANDHINAGAR",
+      "platforms": 2
+    },
+    {
+      "id": "JP",
+      "name": "JAIPUR JN.",
+      "platforms": 2
+    },
+    {
+      "id": "DPA",
+      "name": "DURGAPURA",
+      "platforms": 2
+    },
+    {
+      "id": "SWM",
+      "name": "SAWAI MADHOP",
+      "platforms": 2
+    },
+    {
+      "id": "COR",
+      "name": "CHITTAURGARH",
+      "platforms": 2
+    },
+    {
+      "id": "UDZ",
+      "name": "UDAIPUR CITY",
+      "platforms": 2
+    },
+    {
+      "id": "JSM",
+      "name": "JAISALMER",
+      "platforms": 2
+    },
+    {
+      "id": "MDB",
+      "name": "MANDOR",
+      "platforms": 2
+    },
+    {
+      "id": "FL",
+      "name": "PHULERA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BTE",
+      "name": "BHARATPUR JN",
+      "platforms": 2
+    },
+    {
+      "id": "IDH",
+      "name": "IDGAH",
+      "platforms": 2
+    },
+    {
+      "id": "AGC",
+      "name": "AGRA CANTT",
+      "platforms": 2
+    },
+    {
+      "id": "AWB",
+      "name": "AURANGABAD",
+      "platforms": 2
+    },
+    {
+      "id": "MMR",
+      "name": "MANMAD JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BSL",
+      "name": "BHUSAVAL JN.",
+      "platforms": 2
+    },
+    {
+      "id": "KNW",
+      "name": "KHANDWA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "JHS",
+      "name": "JHANSI JN",
+      "platforms": 2
+    },
+    {
+      "id": "CNB",
+      "name": "KANPUR CENTR",
+      "platforms": 2
+    },
+    {
+      "id": "LKO",
+      "name": "LUCKNOW JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BBK",
+      "name": "BARA BANKI J",
+      "platforms": 2
+    },
+    {
+      "id": "AY",
+      "name": "AYODHYA",
+      "platforms": 2
+    },
+    {
+      "id": "SHG",
+      "name": "SHAHGANJ JN.",
+      "platforms": 2
+    },
+    {
+      "id": "JNU",
+      "name": "JAUNPUR JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BSB",
+      "name": "VARANASI JN.",
+      "platforms": 2
+    },
+    {
+      "id": "FGR",
+      "name": "FATEHGARH",
+      "platforms": 2
+    },
+    {
+      "id": "KSJ",
+      "name": "KASGANJ JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BE",
+      "name": "BAREILLY JN.",
+      "platforms": 2
+    },
+    {
+      "id": "SVDK",
+      "name": "SHRI MATA VA",
+      "platforms": 2
+    },
+    {
+      "id": "SSA",
+      "name": "SIRSA",
+      "platforms": 2
+    },
+    {
+      "id": "HSR",
+      "name": "HISAR JN",
+      "platforms": 2
+    },
+    {
+      "id": "BNW",
+      "name": "BHIWANI JN.",
+      "platforms": 2
+    },
+    {
+      "id": "ROK",
+      "name": "ROHTAK JN.",
+      "platforms": 2
+    },
+    {
+      "id": "MGS",
+      "name": "MUGHAL SARAI",
+      "platforms": 2
+    },
+    {
+      "id": "RJPB",
+      "name": "RAJENDRANAGA",
+      "platforms": 2
+    },
+    {
+      "id": "SNP",
+      "name": "SONIPAT",
+      "platforms": 2
+    },
+    {
+      "id": "PNP",
+      "name": "PANIPAT JN.",
+      "platforms": 2
+    },
+    {
+      "id": "KUN",
+      "name": "KARNAL",
+      "platforms": 2
+    },
+    {
+      "id": "KKDE",
+      "name": "KURUKSHETRA",
+      "platforms": 2
+    },
+    {
+      "id": "UMB",
+      "name": "AMBALA CANTT",
+      "platforms": 2
+    },
+    {
+      "id": "PNBE",
+      "name": "PATNA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BTI",
+      "name": "BATHINDA JN",
+      "platforms": 2
+    },
+    {
+      "id": "PTA",
+      "name": "PATIALA",
+      "platforms": 2
+    },
+    {
+      "id": "URK",
+      "name": "URKURA",
+      "platforms": 2
+    },
+    {
+      "id": "PJP",
+      "name": "PANJIPARA",
+      "platforms": 2
+    },
+    {
+      "id": "ASR",
+      "name": "AMRITSAR JN.",
+      "platforms": 2
+    },
+    {
+      "id": "CSMT",
+      "name": "CST-MUMBAI",
+      "platforms": 2
+    },
+    {
+      "id": "DR",
+      "name": "DADAR",
+      "platforms": 2
+    },
+    {
+      "id": "TNA",
+      "name": "THANE",
+      "platforms": 2
+    },
+    {
+      "id": "KYN",
+      "name": "KALYAN JN",
+      "platforms": 2
+    },
+    {
+      "id": "IGP",
+      "name": "IGATPURI",
+      "platforms": 2
+    },
+    {
+      "id": "NK",
+      "name": "NASIK ROAD",
+      "platforms": 2
+    },
+    {
+      "id": "JL",
+      "name": "JALGAON JN.",
+      "platforms": 2
+    },
+    {
+      "id": "MKU",
+      "name": "MALKAPUR",
+      "platforms": 2
+    },
+    {
+      "id": "SEG",
+      "name": "SHEGAON",
+      "platforms": 2
+    },
+    {
+      "id": "AK",
+      "name": "AKOLA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "MZR",
+      "name": "MURTAJAPUR J",
+      "platforms": 2
+    },
+    {
+      "id": "BD",
+      "name": "BADNERA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "DMN",
+      "name": "DHAMANGAON",
+      "platforms": 2
+    },
+    {
+      "id": "PLO",
+      "name": "PULGAON JN.",
+      "platforms": 2
+    },
+    {
+      "id": "WR",
+      "name": "WARDHA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "NGP",
+      "name": "NAGPUR JN.(C",
+      "platforms": 2
+    },
+    {
+      "id": "LTT",
+      "name": "LOKMANYA TIL",
+      "platforms": 2
+    },
+    {
+      "id": "AJNI",
+      "name": "AJNI",
+      "platforms": 2
+    },
+    {
+      "id": "CSN",
+      "name": "CHALISGAON J",
+      "platforms": 2
+    },
+    {
+      "id": "KAWR",
+      "name": "KAWR",
+      "platforms": 2
+    },
+    {
+      "id": "KT",
+      "name": "KUMTA",
+      "platforms": 2
+    },
+    {
+      "id": "KUDA",
+      "name": "KUNDAPURA",
+      "platforms": 2
+    },
+    {
+      "id": "UD",
+      "name": "UDUPI",
+      "platforms": 2
+    },
+    {
+      "id": "MULK",
+      "name": "MULKI",
+      "platforms": 2
+    },
+    {
+      "id": "MAJN",
+      "name": "MANGALORE JN",
+      "platforms": 2
+    },
+    {
+      "id": "MTJ",
+      "name": "MATHURA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "GWL",
+      "name": "GWALIOR JN",
+      "platforms": 2
+    },
+    {
+      "id": "BPL",
+      "name": "BHOPAL",
+      "platforms": 2
+    },
+    {
+      "id": "ET",
+      "name": "ITARSI",
+      "platforms": 2
+    },
+    {
+      "id": "DD",
+      "name": "DAUND JN.",
+      "platforms": 2
+    },
+    {
+      "id": "KK",
+      "name": "KHADKI",
+      "platforms": 2
+    },
+    {
+      "id": "ANG",
+      "name": "AHMADNAGAR",
+      "platforms": 2
+    },
+    {
+      "id": "KPG",
+      "name": "KOPARGAON",
+      "platforms": 2
+    },
+    {
+      "id": "HD",
+      "name": "HARDA",
+      "platforms": 2
+    },
+    {
+      "id": "PPI",
+      "name": "PIPARIYA",
+      "platforms": 2
+    },
+    {
+      "id": "NU",
+      "name": "NARSINGHPUR",
+      "platforms": 2
+    },
+    {
+      "id": "MML",
+      "name": "MADANMAHAL",
+      "platforms": 2
+    },
+    {
+      "id": "JBP",
+      "name": "JABALPUR",
+      "platforms": 2
+    },
+    {
+      "id": "BDTS",
+      "name": "BANDRA TERMI",
+      "platforms": 2
+    },
+    {
+      "id": "BVI",
+      "name": "BORIVLI",
+      "platforms": 2
+    },
+    {
+      "id": "VAPI",
+      "name": "VAPI",
+      "platforms": 2
+    },
+    {
+      "id": "ST",
+      "name": "SURAT",
+      "platforms": 2
+    },
+    {
+      "id": "BRC",
+      "name": "VADODARA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "RTM",
+      "name": "RATLAM JN",
+      "platforms": 2
+    },
+    {
+      "id": "UJN",
+      "name": "UJJAIN JN",
+      "platforms": 2
+    },
+    {
+      "id": "BIH",
+      "name": "BAIRAGARH",
+      "platforms": 2
+    },
+    {
+      "id": "HBD",
+      "name": "HOSHANGABAD",
+      "platforms": 2
+    },
+    {
+      "id": "KMZ",
+      "name": "KATNI MURWAR",
+      "platforms": 2
+    },
+    {
+      "id": "DMO",
+      "name": "DAMOH",
+      "platforms": 2
+    },
+    {
+      "id": "SGO",
+      "name": "SAUGOR",
+      "platforms": 2
+    },
+    {
+      "id": "MAKR",
+      "name": "MALKHEDI",
+      "platforms": 2
+    },
+    {
+      "id": "LAR",
+      "name": "LALITPUR",
+      "platforms": 2
+    },
+    {
+      "id": "NDLS",
+      "name": "NEW DELHI",
+      "platforms": 2
+    },
+    {
+      "id": "LDH",
+      "name": "LUDHIANA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "JUC",
+      "name": "JALANDHAR CI",
+      "platforms": 2
+    },
+    {
+      "id": "BEAS",
+      "name": "BEAS JN",
+      "platforms": 2
+    },
+    {
+      "id": "ATT",
+      "name": "ATARI JN",
+      "platforms": 2
+    },
+    {
+      "id": "SHR",
+      "name": "SIHORAROAD",
+      "platforms": 2
+    },
+    {
+      "id": "KTE",
+      "name": "KATNI",
+      "platforms": 2
+    },
+    {
+      "id": "UMR",
+      "name": "UMARIA",
+      "platforms": 2
+    },
+    {
+      "id": "SDL",
+      "name": "SHAHDOL",
+      "platforms": 2
+    },
+    {
+      "id": "APR",
+      "name": "ANUPPUR JN.",
+      "platforms": 2
+    },
+    {
+      "id": "PND",
+      "name": "PENDRA ROAD",
+      "platforms": 2
+    },
+    {
+      "id": "BSP",
+      "name": "BILASPUR JN.",
+      "platforms": 2
+    },
+    {
+      "id": "CPH",
+      "name": "CHAMPA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "RIG",
+      "name": "RAIGARH",
+      "platforms": 2
+    },
+    {
+      "id": "JSG",
+      "name": "JHARSUGUDA J",
+      "platforms": 2
+    },
+    {
+      "id": "ROU",
+      "name": "ROURKELA",
+      "platforms": 2
+    },
+    {
+      "id": "CKP",
+      "name": "CHAKARADHARP",
+      "platforms": 2
+    },
+    {
+      "id": "TATA",
+      "name": "TATANAGAR JN",
+      "platforms": 2
+    },
+    {
+      "id": "KGP",
+      "name": "KHARAGPUR",
+      "platforms": 2
+    },
+    {
+      "id": "SRC",
+      "name": "SANTRAGACHI",
+      "platforms": 2
+    },
+    {
+      "id": "REWA",
+      "name": "REWA",
+      "platforms": 2
+    },
+    {
+      "id": "STA",
+      "name": "SATNA",
+      "platforms": 2
+    },
+    {
+      "id": "MYR",
+      "name": "MAIHAR",
+      "platforms": 2
+    },
+    {
+      "id": "JKE",
+      "name": "JUKEHI",
+      "platforms": 2
+    },
+    {
+      "id": "BINA",
+      "name": "BINA",
+      "platforms": 2
+    },
+    {
+      "id": "BHS",
+      "name": "VIDISHA",
+      "platforms": 2
+    },
+    {
+      "id": "TVC",
+      "name": "TRIVANDRUM C",
+      "platforms": 2
+    },
+    {
+      "id": "QLN",
+      "name": "QUILON",
+      "platforms": 2
+    },
+    {
+      "id": "KYJ",
+      "name": "KAYANKULAM J",
+      "platforms": 2
+    },
+    {
+      "id": "MVLK",
+      "name": "MAVELIKARA",
+      "platforms": 2
+    },
+    {
+      "id": "CNGR",
+      "name": "CHENGANNUR",
+      "platforms": 2
+    },
+    {
+      "id": "TRVL",
+      "name": "TIRUVALLA",
+      "platforms": 2
+    },
+    {
+      "id": "KTYM",
+      "name": "KOTTAYAM",
+      "platforms": 2
+    },
+    {
+      "id": "ERN",
+      "name": "ERNAKULAM TO",
+      "platforms": 2
+    },
+    {
+      "id": "AWY",
+      "name": "ALWAYE",
+      "platforms": 2
+    },
+    {
+      "id": "TCR",
+      "name": "TRICHUR",
+      "platforms": 2
+    },
+    {
+      "id": "PGT",
+      "name": "PALAKKAD JN",
+      "platforms": 2
+    },
+    {
+      "id": "CBE",
+      "name": "COIMBATORE",
+      "platforms": 2
+    },
+    {
+      "id": "TUP",
+      "name": "TIRUPPUR",
+      "platforms": 2
+    },
+    {
+      "id": "ED",
+      "name": "ERODE JN.",
+      "platforms": 2
+    },
+    {
+      "id": "SA",
+      "name": "SALEM JN.",
+      "platforms": 2
+    },
+    {
+      "id": "JTJ",
+      "name": "JOLARPETTAI",
+      "platforms": 2
+    },
+    {
+      "id": "KPD",
+      "name": "KATPADI JN",
+      "platforms": 2
+    },
+    {
+      "id": "AJJ",
+      "name": "ARAKKONAM JN",
+      "platforms": 2
+    },
+    {
+      "id": "MAS",
+      "name": "CHENNAI CENT",
+      "platforms": 2
+    },
+    {
+      "id": "OGL",
+      "name": "ONGOLE",
+      "platforms": 2
+    },
+    {
+      "id": "BZA",
+      "name": "VIJAYWADA JN",
+      "platforms": 2
+    },
+    {
+      "id": "RJY",
+      "name": "RAJAHMUNDRY",
+      "platforms": 2
+    },
+    {
+      "id": "VSKP",
+      "name": "VISAKHAPATNA",
+      "platforms": 2
+    },
+    {
+      "id": "VZM",
+      "name": "VIZIANAGARAM",
+      "platforms": 2
+    },
+    {
+      "id": "CHE",
+      "name": "SRIKAKULAM R",
+      "platforms": 2
+    },
+    {
+      "id": "PSA",
+      "name": "PALASA",
+      "platforms": 2
+    },
+    {
+      "id": "BAM",
+      "name": "BERHAMPUR",
+      "platforms": 2
+    },
+    {
+      "id": "BALU",
+      "name": "BALUGAN",
+      "platforms": 2
+    },
+    {
+      "id": "KUR",
+      "name": "KHURDA ROAD",
+      "platforms": 2
+    },
+    {
+      "id": "BBS",
+      "name": "BHUBANESWAR",
+      "platforms": 2
+    },
+    {
+      "id": "CTC",
+      "name": "CUTTACK JN.",
+      "platforms": 2
+    },
+    {
+      "id": "JJKR",
+      "name": "JAJPUR KEONJ",
+      "platforms": 2
+    },
+    {
+      "id": "BHC",
+      "name": "BHADRAKH",
+      "platforms": 2
+    },
+    {
+      "id": "BLS",
+      "name": "BALASORE",
+      "platforms": 2
+    },
+    {
+      "id": "HWH",
+      "name": "HOWRAH JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BHP",
+      "name": "BOLPUR",
+      "platforms": 2
+    },
+    {
+      "id": "RPH",
+      "name": "RAMPUR HAT",
+      "platforms": 2
+    },
+    {
+      "id": "PKR",
+      "name": "PAKUR",
+      "platforms": 2
+    },
+    {
+      "id": "NFK",
+      "name": "NEW FARAKKA",
+      "platforms": 2
+    },
+    {
+      "id": "MLDT",
+      "name": "MALDA TOWN",
+      "platforms": 2
+    },
+    {
+      "id": "KNE",
+      "name": "KISHANGANJ",
+      "platforms": 2
+    },
+    {
+      "id": "NJP",
+      "name": "NEW JALPAIGU",
+      "platforms": 2
+    },
+    {
+      "id": "DQG",
+      "name": "DHUPGURI",
+      "platforms": 2
+    },
+    {
+      "id": "NCB",
+      "name": "NEW COOCH BE",
+      "platforms": 2
+    },
+    {
+      "id": "NOQ",
+      "name": "NEW ALIPURDU",
+      "platforms": 2
+    },
+    {
+      "id": "KOJ",
+      "name": "KOKRAJHAR",
+      "platforms": 2
+    },
+    {
+      "id": "NBQ",
+      "name": "NEW BONGAIGA",
+      "platforms": 2
+    },
+    {
+      "id": "BPRD",
+      "name": "BARPETA ROAD",
+      "platforms": 2
+    },
+    {
+      "id": "RNY",
+      "name": "RANGIYA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "KYQ",
+      "name": "KAMAKHYA JN",
+      "platforms": 2
+    },
+    {
+      "id": "GHY",
+      "name": "GUWAHATI",
+      "platforms": 2
+    },
+    {
+      "id": "HJI",
+      "name": "HOJAI",
+      "platforms": 2
+    },
+    {
+      "id": "LMG",
+      "name": "LUMDING JN.",
+      "platforms": 2
+    },
+    {
+      "id": "NHGJ",
+      "name": "NEW HARANGAJ",
+      "platforms": 2
+    },
+    {
+      "id": "BPB",
+      "name": "BADARPUR JN.",
+      "platforms": 2
+    },
+    {
+      "id": "SCL",
+      "name": "SILCHAR",
+      "platforms": 2
+    },
+    {
+      "id": "PLNI",
+      "name": "PALANI",
+      "platforms": 2
+    },
+    {
+      "id": "UDT",
+      "name": "UDUMALAIPPET",
+      "platforms": 2
+    },
+    {
+      "id": "POY",
+      "name": "POLLACHI",
+      "platforms": 2
+    },
+    {
+      "id": "HYB",
+      "name": "HYDERABAD DE",
+      "platforms": 2
+    },
+    {
+      "id": "SC",
+      "name": "SECUNDERABAD",
+      "platforms": 2
+    },
+    {
+      "id": "MED",
+      "name": "MEDCHAL",
+      "platforms": 2
+    },
+    {
+      "id": "KMC",
+      "name": "KAMAREDDI",
+      "platforms": 2
+    },
+    {
+      "id": "NZB",
+      "name": "NIZAMABAD",
+      "platforms": 2
+    },
+    {
+      "id": "DAB",
+      "name": "DHARMABAD",
+      "platforms": 2
+    },
+    {
+      "id": "MUE",
+      "name": "MUDKHED JN.",
+      "platforms": 2
+    },
+    {
+      "id": "NED",
+      "name": "NANDED",
+      "platforms": 2
+    },
+    {
+      "id": "PAU",
+      "name": "PURNA  JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BMF",
+      "name": "BASMAT",
+      "platforms": 2
+    },
+    {
+      "id": "HNL",
+      "name": "HINGOLI(DECC",
+      "platforms": 2
+    },
+    {
+      "id": "WHM",
+      "name": "WASHIM",
+      "platforms": 2
+    },
+    {
+      "id": "BAU",
+      "name": "BURHANPUR",
+      "platforms": 2
+    },
+    {
+      "id": "NAD",
+      "name": "NAGDA JN",
+      "platforms": 2
+    },
+    {
+      "id": "MDS",
+      "name": "MANDSOR",
+      "platforms": 2
+    },
+    {
+      "id": "NMH",
+      "name": "NIMACH",
+      "platforms": 2
+    },
+    {
+      "id": "BHL",
+      "name": "BHILWARA",
+      "platforms": 2
+    },
+    {
+      "id": "AII",
+      "name": "AJMER JN.",
+      "platforms": 2
+    },
+    {
+      "id": "KSG",
+      "name": "KISHANGARH",
+      "platforms": 2
+    },
+    {
+      "id": "DURG",
+      "name": "DURG",
+      "platforms": 2
+    },
+    {
+      "id": "R",
+      "name": "RAIPUR JN.",
+      "platforms": 2
+    },
+    {
+      "id": "RJT",
+      "name": "RAJKOT",
+      "platforms": 2
+    },
+    {
+      "id": "WKR",
+      "name": "WANKANER",
+      "platforms": 2
+    },
+    {
+      "id": "SUNR",
+      "name": "SURENDRANAGA",
+      "platforms": 2
+    },
+    {
+      "id": "VG",
+      "name": "VIRAMGAM JN",
+      "platforms": 2
+    },
+    {
+      "id": "ADI",
+      "name": "AHMEDABAD",
+      "platforms": 2
+    },
+    {
+      "id": "ND",
+      "name": "NADIAD JN.",
+      "platforms": 2
+    },
+    {
+      "id": "ANND",
+      "name": "ANAND JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BH",
+      "name": "BHARUCH JN.",
+      "platforms": 2
+    },
+    {
+      "id": "NDB",
+      "name": "NANDURBAR",
+      "platforms": 2
+    },
+    {
+      "id": "AN",
+      "name": "AMALNER",
+      "platforms": 2
+    },
+    {
+      "id": "G",
+      "name": "GONDIA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "DVD",
+      "name": "DUVVADA",
+      "platforms": 2
+    },
+    {
+      "id": "NLR",
+      "name": "NELLORE",
+      "platforms": 2
+    },
+    {
+      "id": "HTE",
+      "name": "HATIA",
+      "platforms": 2
+    },
+    {
+      "id": "KOAA",
+      "name": "KOLKATA",
+      "platforms": 2
+    },
+    {
+      "id": "PURI",
+      "name": "PURI",
+      "platforms": 2
+    },
+    {
+      "id": "ASN",
+      "name": "ASANSOL MAIN",
+      "platforms": 2
+    },
+    {
+      "id": "BCQ",
+      "name": "BARACHAK JN.",
+      "platforms": 2
+    },
+    {
+      "id": "STN",
+      "name": "SITARAMPUR J",
+      "platforms": 2
+    },
+    {
+      "id": "ULT",
+      "name": "KULTI",
+      "platforms": 2
+    },
+    {
+      "id": "BRR",
+      "name": "BARAKAR",
+      "platforms": 2
+    },
+    {
+      "id": "KMME",
+      "name": "KUMAR DUBI",
+      "platforms": 2
+    },
+    {
+      "id": "MMU",
+      "name": "MUGMA",
+      "platforms": 2
+    },
+    {
+      "id": "TNW",
+      "name": "THANPAR NAGA",
+      "platforms": 2
+    },
+    {
+      "id": "KAO",
+      "name": "KALUBATHAN",
+      "platforms": 2
+    },
+    {
+      "id": "CAM",
+      "name": "CHHOTA AMBAN",
+      "platforms": 2
+    },
+    {
+      "id": "PKA",
+      "name": "PRADHAN KHUN",
+      "platforms": 2
+    },
+    {
+      "id": "DOKM",
+      "name": "DOKRA HALT",
+      "platforms": 2
+    },
+    {
+      "id": "DHN",
+      "name": "DHANBAD JN.",
+      "platforms": 2
+    },
+    {
+      "id": "KDS",
+      "name": "KUSUNDA",
+      "platforms": 2
+    },
+    {
+      "id": "SZE",
+      "name": "SONARDIH",
+      "platforms": 2
+    },
+    {
+      "id": "TNO",
+      "name": "TUNDU",
+      "platforms": 2
+    },
+    {
+      "id": "BDQ",
+      "name": "BUDORA",
+      "platforms": 2
+    },
+    {
+      "id": "PLJE",
+      "name": "PHULWARTANR",
+      "platforms": 2
+    },
+    {
+      "id": "JSME",
+      "name": "JASIDIH JN.",
+      "platforms": 2
+    },
+    {
+      "id": "ANVT",
+      "name": "ANAND VIHAR",
+      "platforms": 2
+    },
+    {
+      "id": "GZB",
+      "name": "GHAZIABAD JN",
+      "platforms": 2
+    },
+    {
+      "id": "MTC",
+      "name": "MEERUT CITY",
+      "platforms": 2
+    },
+    {
+      "id": "MOZ",
+      "name": "MUZAFFARNAGA",
+      "platforms": 2
+    },
+    {
+      "id": "SRE",
+      "name": "SAHARANPUR J",
+      "platforms": 2
+    },
+    {
+      "id": "YJUD",
+      "name": "YAMUNANAGER",
+      "platforms": 2
+    },
+    {
+      "id": "JRC",
+      "name": "JALANDHAR CA",
+      "platforms": 2
+    },
+    {
+      "id": "PTKC",
+      "name": "PATHANKOT CA",
+      "platforms": 2
+    },
+    {
+      "id": "JAT",
+      "name": "JAMMU TAWI",
+      "platforms": 2
+    },
+    {
+      "id": "UHP",
+      "name": "UDHAMPUR",
+      "platforms": 2
+    },
+    {
+      "id": "DLI",
+      "name": "DELHI JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BSR",
+      "name": "VASAI ROAD",
+      "platforms": 2
+    },
+    {
+      "id": "KOTA",
+      "name": "KOTA",
+      "platforms": 2
+    },
+    {
+      "id": "NZM",
+      "name": "HAZRAT NIZAM",
+      "platforms": 2
+    },
+    {
+      "id": "BKN",
+      "name": "BIKANER JN.",
+      "platforms": 2
+    },
+    {
+      "id": "NPS",
+      "name": "NAPASAR",
+      "platforms": 2
+    },
+    {
+      "id": "SDF",
+      "name": "SUDSAR",
+      "platforms": 2
+    },
+    {
+      "id": "SDGH",
+      "name": "SRI DUNGARGA",
+      "platforms": 2
+    },
+    {
+      "id": "RJR",
+      "name": "RAJALDESAR",
+      "platforms": 2
+    },
+    {
+      "id": "RTGH",
+      "name": "RATANAGARH J",
+      "platforms": 2
+    },
+    {
+      "id": "CUR",
+      "name": "CHURU",
+      "platforms": 2
+    },
+    {
+      "id": "SDLP",
+      "name": "SADULPUR JN",
+      "platforms": 2
+    },
+    {
+      "id": "LHU",
+      "name": "LOHARU JN",
+      "platforms": 2
+    },
+    {
+      "id": "MHRG",
+      "name": "MAHENDRAGARH",
+      "platforms": 2
+    },
+    {
+      "id": "RE",
+      "name": "REWARI JN.",
+      "platforms": 2
+    },
+    {
+      "id": "DSA",
+      "name": "DELHI-SHAHDA",
+      "platforms": 2
+    },
+    {
+      "id": "SMQL",
+      "name": "SHAMLI",
+      "platforms": 2
+    },
+    {
+      "id": "TPZ",
+      "name": "TAPRI JN.",
+      "platforms": 2
+    },
+    {
+      "id": "RK",
+      "name": "ROORKEE",
+      "platforms": 2
+    },
+    {
+      "id": "HW",
+      "name": "HARIDWAR JN",
+      "platforms": 2
+    },
+    {
+      "id": "HMH",
+      "name": "HANUMANGARH",
+      "platforms": 2
+    },
+    {
+      "id": "JRKN",
+      "name": "JORKIAN",
+      "platforms": 2
+    },
+    {
+      "id": "HLW",
+      "name": "HIRNAWALI",
+      "platforms": 2
+    },
+    {
+      "id": "DPK",
+      "name": "DHOLIPAL",
+      "platforms": 2
+    },
+    {
+      "id": "BUGL",
+      "name": "BUGLANWALI",
+      "platforms": 2
+    },
+    {
+      "id": "BDSW",
+      "name": "BUDHSINGHWAL",
+      "platforms": 2
+    },
+    {
+      "id": "SDS",
+      "name": "SADULSHAHAR",
+      "platforms": 2
+    },
+    {
+      "id": "FSW",
+      "name": "FATEH SINGHW",
+      "platforms": 2
+    },
+    {
+      "id": "BWC",
+      "name": "BANWALI",
+      "platforms": 2
+    },
+    {
+      "id": "SGNR",
+      "name": "SHRI GANGANA",
+      "platforms": 2
+    },
+    {
+      "id": "NRWI",
+      "name": "NARWASI",
+      "platforms": 2
+    },
+    {
+      "id": "SDMK",
+      "name": "SIDMUKH",
+      "platforms": 2
+    },
+    {
+      "id": "AUS",
+      "name": "ANUP SHAHR",
+      "platforms": 2
+    },
+    {
+      "id": "TSD",
+      "name": "TAHSIL BHADR",
+      "platforms": 2
+    },
+    {
+      "id": "GAMI",
+      "name": "GOGAMERI",
+      "platforms": 2
+    },
+    {
+      "id": "DPLN",
+      "name": "DIPLANA",
+      "platforms": 2
+    },
+    {
+      "id": "NHR",
+      "name": "NOHAR",
+      "platforms": 2
+    },
+    {
+      "id": "KNNA",
+      "name": "KHINANIYAN",
+      "platforms": 2
+    },
+    {
+      "id": "ENB",
+      "name": "ELLENABAD",
+      "platforms": 2
+    },
+    {
+      "id": "TLI",
+      "name": "TALWARA JHIL",
+      "platforms": 2
+    },
+    {
+      "id": "TIBI",
+      "name": "TIBI",
+      "platforms": 2
+    },
+    {
+      "id": "SRKN",
+      "name": "SHEREKAN",
+      "platforms": 2
+    },
+    {
+      "id": "HMO",
+      "name": "HANUMANGARH",
+      "platforms": 2
+    },
+    {
+      "id": "PRUR",
+      "name": "PRITHWIRAJPU",
+      "platforms": 2
+    },
+    {
+      "id": "KESR",
+      "name": "KESRI SINGHP",
+      "platforms": 2
+    },
+    {
+      "id": "DPT",
+      "name": "DALPAT SINGH",
+      "platforms": 2
+    },
+    {
+      "id": "SRW",
+      "name": "SHRI KARANPU",
+      "platforms": 2
+    },
+    {
+      "id": "ZPR",
+      "name": "ZORAWARPURA",
+      "platforms": 2
+    },
+    {
+      "id": "GJS",
+      "name": "GAJSINGHPUR",
+      "platforms": 2
+    },
+    {
+      "id": "RSNR",
+      "name": "RAI SINGH NA",
+      "platforms": 2
+    },
+    {
+      "id": "MNGR",
+      "name": "MOHAN NAGAR",
+      "platforms": 2
+    },
+    {
+      "id": "MSWA",
+      "name": "MASANIWALA",
+      "platforms": 2
+    },
+    {
+      "id": "BUGY",
+      "name": "BUGIA",
+      "platforms": 2
+    },
+    {
+      "id": "JES",
+      "name": "JAITSAR",
+      "platforms": 2
+    },
+    {
+      "id": "SRPR",
+      "name": "SARUPSAR JN.",
+      "platforms": 2
+    },
+    {
+      "id": "SRZ",
+      "name": "SARDARGARH",
+      "platforms": 2
+    },
+    {
+      "id": "BNSR",
+      "name": "BHAGWANSAR",
+      "platforms": 2
+    },
+    {
+      "id": "SOG",
+      "name": "SURATGARH JN",
+      "platforms": 2
+    },
+    {
+      "id": "PBC",
+      "name": "PARVATSAR CI",
+      "platforms": 2
+    },
+    {
+      "id": "BIDD",
+      "name": "BIDIYAD",
+      "platforms": 2
+    },
+    {
+      "id": "MKN",
+      "name": "MAKRANA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "JU",
+      "name": "JODHPUR JN.",
+      "platforms": 2
+    },
+    {
+      "id": "GOTN",
+      "name": "GOTAN",
+      "platforms": 2
+    },
+    {
+      "id": "MTD",
+      "name": "MERTA ROAD J",
+      "platforms": 2
+    },
+    {
+      "id": "DNA",
+      "name": "DEGANA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "KHTU",
+      "name": "KHATU",
+      "platforms": 2
+    },
+    {
+      "id": "CTKT",
+      "name": "CHHOTI KHATU",
+      "platforms": 2
+    },
+    {
+      "id": "DIA",
+      "name": "DIDWANA",
+      "platforms": 2
+    },
+    {
+      "id": "LAU",
+      "name": "LADNUN",
+      "platforms": 2
+    },
+    {
+      "id": "SUJH",
+      "name": "SUJANGARH",
+      "platforms": 2
+    },
+    {
+      "id": "SWNI",
+      "name": "SIWANI",
+      "platforms": 2
+    },
+    {
+      "id": "DUI",
+      "name": "DHURI JN.",
+      "platforms": 2
+    },
+    {
+      "id": "RPJ",
+      "name": "RAJPURA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "JUDW",
+      "name": "JAGADHRI WOR",
+      "platforms": 2
+    },
+    {
+      "id": "JWP",
+      "name": "JWALAPUR",
+      "platforms": 2
+    },
+    {
+      "id": "KQW",
+      "name": "KHEDULI",
+      "platforms": 2
+    },
+    {
+      "id": "REN",
+      "name": "REN",
+      "platforms": 2
+    },
+    {
+      "id": "JAC",
+      "name": "JALSU",
+      "platforms": 2
+    },
+    {
+      "id": "JACN",
+      "name": "JALSU NANAK",
+      "platforms": 2
+    },
+    {
+      "id": "KRC",
+      "name": "KIRODA",
+      "platforms": 2
+    },
+    {
+      "id": "PW",
+      "name": "PIRWA",
+      "platforms": 2
+    },
+    {
+      "id": "KKNA",
+      "name": "KHUNKHUNA",
+      "platforms": 2
+    },
+    {
+      "id": "MBSK",
+      "name": "MARWAR- BALI",
+      "platforms": 2
+    },
+    {
+      "id": "SVO",
+      "name": "SANVRAD",
+      "platforms": 2
+    },
+    {
+      "id": "BLSD",
+      "name": "BALSAMAND",
+      "platforms": 2
+    },
+    {
+      "id": "TLC",
+      "name": "TALCHHAPAR",
+      "platforms": 2
+    },
+    {
+      "id": "PIH",
+      "name": "PARIHARA",
+      "platforms": 2
+    },
+    {
+      "id": "LOHA",
+      "name": "LOHA   HALT",
+      "platforms": 2
+    },
+    {
+      "id": "MIO",
+      "name": "MOLISAR",
+      "platforms": 2
+    },
+    {
+      "id": "SMNN",
+      "name": "SHRI MAKRI N",
+      "platforms": 2
+    },
+    {
+      "id": "JOH",
+      "name": "JUHARPURA",
+      "platforms": 2
+    },
+    {
+      "id": "DEP",
+      "name": "DEPALSAR",
+      "platforms": 2
+    },
+    {
+      "id": "PKY",
+      "name": "PILKHANI",
+      "platforms": 2
+    },
+    {
+      "id": "SSW",
+      "name": "SARSAWA",
+      "platforms": 2
+    },
+    {
+      "id": "KNZ",
+      "name": "KALANOUR",
+      "platforms": 2
+    },
+    {
+      "id": "DZP",
+      "name": "DARAZPUR",
+      "platforms": 2
+    },
+    {
+      "id": "MFB",
+      "name": "MUSTAFABAD",
+      "platforms": 2
+    },
+    {
+      "id": "RAA",
+      "name": "BARARA",
+      "platforms": 2
+    },
+    {
+      "id": "TDW",
+      "name": "TANDWAL",
+      "platforms": 2
+    },
+    {
+      "id": "KES",
+      "name": "KESRI",
+      "platforms": 2
+    },
+    {
+      "id": "DOKY",
+      "name": "DUKHERI",
+      "platforms": 2
+    },
+    {
+      "id": "PTK",
+      "name": "PATHANKOT JN",
+      "platforms": 2
+    },
+    {
+      "id": "BHRL",
+      "name": "BHAROLI",
+      "platforms": 2
+    },
+    {
+      "id": "SJNP",
+      "name": "SUJANPUR",
+      "platforms": 2
+    },
+    {
+      "id": "MDPB",
+      "name": "MADHOPUR PUN",
+      "platforms": 2
+    },
+    {
+      "id": "KTHU",
+      "name": "KATHUA",
+      "platforms": 2
+    },
+    {
+      "id": "BDHY",
+      "name": "BUDHI",
+      "platforms": 2
+    },
+    {
+      "id": "CHNR",
+      "name": "CHHAN ARORIA",
+      "platforms": 2
+    },
+    {
+      "id": "CKDL",
+      "name": "CHAKDAYALA",
+      "platforms": 2
+    },
+    {
+      "id": "HRNR",
+      "name": "HIRA NAGAR",
+      "platforms": 2
+    },
+    {
+      "id": "GHGL",
+      "name": "GHAGWAL",
+      "platforms": 2
+    },
+    {
+      "id": "SMBX",
+      "name": "SAMBA",
+      "platforms": 2
+    },
+    {
+      "id": "VJPJ",
+      "name": "VIJAYPUR JAM",
+      "platforms": 2
+    },
+    {
+      "id": "BBMN",
+      "name": "BARI BRAHMAN",
+      "platforms": 2
+    },
+    {
+      "id": "GKP",
+      "name": "GORAKHPUR JN",
+      "platforms": 2
+    },
+    {
+      "id": "ANDN",
+      "name": "ANAND NAGAR",
+      "platforms": 2
+    },
+    {
+      "id": "NUH",
+      "name": "NAUGARH",
+      "platforms": 2
+    },
+    {
+      "id": "SOT",
+      "name": "SHOHRATGARH",
+      "platforms": 2
+    },
+    {
+      "id": "BNY",
+      "name": "BARHNI",
+      "platforms": 2
+    },
+    {
+      "id": "CPR",
+      "name": "CHHAPRA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "SV",
+      "name": "SIWAN JN.",
+      "platforms": 2
+    },
+    {
+      "id": "THE",
+      "name": "THAWE JN.",
+      "platforms": 2
+    },
+    {
+      "id": "TOI",
+      "name": "TAMKUHI ROAD",
+      "platforms": 2
+    },
+    {
+      "id": "DUE",
+      "name": "DUDAHI",
+      "platforms": 2
+    },
+    {
+      "id": "POU",
+      "name": "PADRAUNA",
+      "platforms": 2
+    },
+    {
+      "id": "RKL",
+      "name": "RAMKOLA",
+      "platforms": 2
+    },
+    {
+      "id": "CPJ",
+      "name": "KAPTANGANJ J",
+      "platforms": 2
+    },
+    {
+      "id": "BST",
+      "name": "BASTI",
+      "platforms": 2
+    },
+    {
+      "id": "MUR",
+      "name": "MANKAPUR JN.",
+      "platforms": 2
+    },
+    {
+      "id": "GD",
+      "name": "GONDA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BNZ",
+      "name": "BADSHAHNAGAR",
+      "platforms": 2
+    },
+    {
+      "id": "LJN",
+      "name": "LUCKNOW JN.",
+      "platforms": 2
+    },
+    {
+      "id": "SWA",
+      "name": "SAHJANWA",
+      "platforms": 2
+    },
+    {
+      "id": "KLD",
+      "name": "KHALILABAD",
+      "platforms": 2
+    },
+    {
+      "id": "CPA",
+      "name": "KANPUR ANWAR",
+      "platforms": 2
+    },
+    {
+      "id": "RPO",
+      "name": "RAWATPUR",
+      "platforms": 2
+    },
+    {
+      "id": "KAP",
+      "name": "KALIANPUR",
+      "platforms": 2
+    },
+    {
+      "id": "BJR",
+      "name": "BARRAJPUR",
+      "platforms": 2
+    },
+    {
+      "id": "BLU",
+      "name": "BILHAUR",
+      "platforms": 2
+    },
+    {
+      "id": "ARL",
+      "name": "ARAUL MAKANP",
+      "platforms": 2
+    },
+    {
+      "id": "KJN",
+      "name": "KANNAUJ",
+      "platforms": 2
+    },
+    {
+      "id": "GHJ",
+      "name": "GURSAHAIGANJ",
+      "platforms": 2
+    },
+    {
+      "id": "KLJ",
+      "name": "KAMALGANJ",
+      "platforms": 2
+    },
+    {
+      "id": "FBD",
+      "name": "FARRUKHABAD",
+      "platforms": 2
+    },
+    {
+      "id": "BC",
+      "name": "BAREILLY CIT",
+      "platforms": 2
+    },
+    {
+      "id": "IZN",
+      "name": "IZZATNAGAR J",
+      "platforms": 2
+    },
+    {
+      "id": "BPR",
+      "name": "BHOJIPURA JN",
+      "platforms": 2
+    },
+    {
+      "id": "BHI",
+      "name": "BAHERI",
+      "platforms": 2
+    },
+    {
+      "id": "KHH",
+      "name": "KICHHA",
+      "platforms": 2
+    },
+    {
+      "id": "LKU",
+      "name": "LALKUA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "JMP",
+      "name": "JAMALPUR JN.",
+      "platforms": 2
+    },
+    {
+      "id": "MGR",
+      "name": "MONGHYR",
+      "platforms": 2
+    },
+    {
+      "id": "SBDP",
+      "name": "SABDALPUR JN",
+      "platforms": 2
+    },
+    {
+      "id": "UMNR",
+      "name": "UMESHNAGAR",
+      "platforms": 2
+    },
+    {
+      "id": "KGG",
+      "name": "KHAGARIA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "MNE",
+      "name": "MANSI JN.",
+      "platforms": 2
+    },
+    {
+      "id": "BHB",
+      "name": "BADLA GHAT",
+      "platforms": 2
+    },
+    {
+      "id": "DHT",
+      "name": "DHAMARA GHAT",
+      "platforms": 2
+    },
+    {
+      "id": "KFA",
+      "name": "KOPARIA",
+      "platforms": 2
+    },
+    {
+      "id": "SBV",
+      "name": "SIMRI BAKHTI",
+      "platforms": 2
+    },
+    {
+      "id": "SBM",
+      "name": "SONBARSA KAC",
+      "platforms": 2
+    },
+    {
+      "id": "SHC",
+      "name": "SAHARSA JN.",
+      "platforms": 2
+    },
+    {
+      "id": "JLWC",
+      "name": "JHALAWAR CIT",
+      "platforms": 2
+    },
+    {
+      "id": "JLF",
+      "name": "JULMI",
+      "platforms": 2
+    },
+    {
+      "id": "RMA",
+      "name": "RAMGANJ MAND",
+      "platforms": 2
+    },
+    {
+      "id": "MKX",
+      "name": "MORAK",
+      "platforms": 2
+    },
+    {
+      "id": "KIW",
+      "name": "KANWALPURA",
+      "platforms": 2
+    },
+    {
+      "id": "DARA",
+      "name": "DARA",
+      "platforms": 2
+    },
+    {
+      "id": "RDT",
+      "name": "RAVTHA ROAD",
+      "platforms": 2
+    },
+    {
+      "id": "ALNI",
+      "name": "ALNIYA",
+      "platforms": 2
+    },
+    {
+      "id": "DDV",
+      "name": "DADHDEVI",
+      "platforms": 2
+    },
+    {
+      "id": "DKNT",
+      "name": "DAKANIYA TAL",
+      "platforms": 2
+    }
+  ],
+  "blocks": [
+    {
+      "id": "B1",
+      "from": "SWV",
+      "to": "DKNT",
+      "length_km": null
+    }
+  ]
+}
